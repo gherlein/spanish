@@ -1,0 +1,24 @@
+I am,yo
+you are,tu
+he/she is,el/ella
+it is,es/esto
+us/we are,nosotros
+they are,ellos/ellas
+you all are,ustedes
+you are (formal),usted
+I want,quiero	
+you want,quieres
+we want,queremos	
+he/she/it wants,quiere
+I need,necesito	
+you need,necesitas	
+we need,necesitamos	
+he/she/it needs,necesita	
+may/can I,puedo	
+may/can you,puedes	
+may/can we,podemos	
+may/can he/she/it,puede
+I have,tengo	
+you have,tienes	
+we have,tenemos	
+he/she/it have,tiene

@@ -1,0 +1,22 @@
+tomorrow,manana
+yesterday,ayer
+midnight,medio noche
+night,noche
+noon,medio dia
+next week,proxima semana
+last week,ultima semana
+next month,proxima mes
+last month,ultima mes
+the past week,semana pasada
+months,meses
+year,ano
+day before yesterday,antiyer
+day after tomorrow,posado manana
+before,antes
+after,despues
+in 3 days,en tres dias
+3 days ago,have tres dias
+earlier today,mas termprano hoy
+later today,mas tarde hoy
+early,temprano
+late,tarde

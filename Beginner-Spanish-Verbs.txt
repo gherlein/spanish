@@ -1,0 +1,152 @@
+accept,aceptar
+answer,contestar
+arrive,llegar
+ascend,subir
+ask,preguntar
+ask for,pedir
+attempt (try),intentar
+be,ser/estar
+be (fixed),ser
+be (temporary),estar
+begin,comenzar
+believe,creer
+bring,traer
+bring/fetch/get,traer
+buy,comprar
+call (or call out),llamar
+can,poder
+clean,limpiar
+close,cerar
+come,venir
+come back (return),regresar
+come in,entrar
+converse,platicar
+cook,cocinar
+cut (off not divide),cortar
+decide,decidir
+demonstrate,demostrar
+descend,bajar
+divide (cut),partir
+do,hacer
+drink,tomar
+drive,manejar
+eat,comer
+end,acabar
+enjoy,disfrutar
+explain,explicar
+fall down,caer
+feel,sentir
+find,encontrar
+finish,terminar
+follow,seguir
+forget,olvidar
+fullfill,cumplir
+get/obtain,conseguir
+give,dar
+go,ir
+go out (exit),salir
+have,tener
+have,tener
+hear,oir
+help,ayudar
+know,saber
+know (have knowledge of),conoser
+leave,dejar
+lift,levantar
+like (or enjoy),gustar
+listen/hear,escuchar
+live,vivir
+load,cargar
+look,mirar
+lose,perder
+love,amar
+maintain,mantener
+may,puedo
+move,mover
+need,necesitar
+need,necesitar
+open,abrir
+owe,deber
+park,estacionar
+pay,pagar
+play,jugar
+read,leer
+receive,recibir
+record,grabar
+remember,recordar
+rent,rentar
+rest,descansar
+return,volver
+run,correr
+search for (look for),buscar
+see,ver
+sell,vender
+shower,banar
+sit,sentar
+sleep,dormir
+smell,oler
+speak,hablar
+spend/waste,gastar
+start,empezar
+starting from,a partir de
+stay,quedar
+stop (come a halt),parar
+succeed,tener
+take,tomar
+take (away),llevar
+take out (extract),sacar
+taste,probar
+tell or say,decir
+think,pensar
+touch/knock/play instrument,tocar
+transfer,transferir
+translate,traducir
+travel,viajar
+understand,entender
+use/utilize,utilizar
+wait,esperar
+walk,caminar
+want,querer
+win,ganar
+write,escribir
+meet, encontrar
+turn off, apagar
+try, intentar
+swim, nadar
+change, cambiar
+watch, ver
+marry, casar
+tolerate, aguantar
+desire, antojar
+crave, antojar
+hate, odiar
+add, agregar
+boil, hiervir
+cover, cubrir
+peel, pelar
+fund, fundar
+iron, planchar
+unload, descargar
+undo, deshechar
+disembark, desembarcar
+eject, ejectuar
+unpack, desempacar
+pack, empacar
+ignore, omitir
+print, imprimir
+receive, recibir
+suffer, sufrir
+attend, asistir
+permit, permitir
+divide, dividir
+define, definir
+grow, crecer
+respond, responder
+protect, proteger
+sweep, barrer
+refund, devolver
+disappear, desaparecer
+hang, colgar
+support, apoyar
+hide, esconder
+plant, plantar

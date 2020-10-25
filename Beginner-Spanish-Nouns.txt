@@ -1,0 +1,42 @@
+trash	basura
+bag	bolsa
+street	calle
+marina	puerto pequeño
+boat	barco
+car	auto
+room	sala
+box	caja
+tool	utensilio
+pot (cooking)	olla
+flower	flor
+up	"ariba	"
+down	"abajo	"
+inside	"adentro	"
+outside	"afuera	"
+right	"derecha	"
+left	"izquierdo	"
+straight	"derecho	"
+today	"hoy	"
+week	"semena	"
+ice	"hielo	"
+pork	"carne de cerdo	"
+bathroom	"bano	"
+computer	"computadora	"
+bed	"cama	"
+nurse	"enfermera	"
+rain	"lluvia	"
+cloud	"nube	"
+wall	"pared	"
+door	"puerta	"
+pool	"piscina	"
+grass	"cesped	"
+spouse	"esposa	"
+if	si
+but	pero
+dog	perro
+also	tambien
+and	Y
+or	o
+on	en
+why	por que
+because	porque
